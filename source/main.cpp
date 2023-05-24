@@ -1,12 +1,3 @@
-/* Mini SDL Demo
- * featuring SDL2 + SDL2_mixer + SDL2_image + SDL2_ttf
- * on Nintendo Switch using libnx
- *
- * (c) 2018-2021 carstene1ns, ISC license
- */
-//Base Vel X = 17
-//Base Vel Y = 11
-
 #include <time.h>
 #include <unistd.h>
 #include <SDL.h>
