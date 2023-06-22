@@ -1,17 +1,19 @@
 # Pong-NX
+## Try it yourself
+You can download the .nro from the latest release or get it from the [Homebrew App Store](https://apps.fortheusers.org/switch/PongNX)
 ## Description
-A simple Nintendo Switch version of Pong .
-It was made using SDL2 and written in C++ .
+A simple Nintendo Switch version of Pong.
+It was made using SDL2 and written in C++.
 
 I made the same game for the 3DS : 
 https://github.com/Zamacian/Pong-3DSX
 ## Commands
-Use UP and DOWN on the D-Pad to move the left paddle .
-Use X and B to move the right paddle .
+Use UP and DOWN on the D-Pad to move the left paddle.
+Use X and B to move the right paddle.
 
-You can exit using MINUS or PLUS at any moment .
+You can exit using MINUS or PLUS at any moment.
 
-Any other button will start the game if it isn't already .
+Any other button will start the game if it isn't already.
 ## Images
 Game not started :
 
