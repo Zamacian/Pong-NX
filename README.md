@@ -1,6 +1,7 @@
 # Pong-NX
 ## Try it yourself
-You can download the .nro from the latest release or get it from the [Homebrew App Store](https://apps.fortheusers.org/switch/PongNX)
+You can download the .nro from the latest release or get it from the [Homebrew App Store](https://apps.fortheusers.org/switch/PongNX)  return
+Then, you can use an [emulator](https://yuzu-emu.org/) or a [cracked Switch](https://www.cfwaifu.com/atmosphere-tinfoil/) to run it.
 ## Description
 A simple Nintendo Switch version of Pong.
 It was made using SDL2 and written in C++.
